@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/meal-app/static/css/main.5a2202c4.css",
+    "main.js": "/meal-app/static/js/main.ced185ab.js",
+    "index.html": "/meal-app/index.html",
+    "main.5a2202c4.css.map": "/meal-app/static/css/main.5a2202c4.css.map",
+    "main.ced185ab.js.map": "/meal-app/static/js/main.ced185ab.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5a2202c4.css",
+    "static/js/main.ced185ab.js"
+  ]
+}
